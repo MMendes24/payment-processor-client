@@ -2,6 +2,8 @@
 
 A simple payment processor build with React.js, Stripe, and Node/Express.
 
+Site is currently live and deployed at: https://stripe-checkout-marsmendes.netlify.app/
+
 The processor currently allows you select one of six items and purchase it via Stripes API and methods. While it is a test demonstration of the functionality and therefore is not "live" it possesses many of the same restrictions as a live use of Stripe, including card validation.
 
 It currently requires a card number, a expiration date, and CVC (Card Verification Code):
